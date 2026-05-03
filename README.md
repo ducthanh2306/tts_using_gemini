@@ -1,5 +1,4 @@
 # tts_using_gemini
-Bạn có thể dùng một README kiểu nhẹ nhàng, sạch sẽ như này:
 
 ---
 
@@ -61,5 +60,4 @@ Project này được tạo để thử nghiệm khả năng Text-to-Speech củ
 
 ---
 
-Nếu đăng lên GitHub thì kiểu README này khá gọn, nhìn cá nhân nhưng vẫn chuyên nghiệp.
 
