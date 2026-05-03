@@ -48,11 +48,12 @@ python tts_ui.py
 ```
 
 ## 📌 Demo
-
-1. Nhập nội dung cần đọc
-2. Chọn giọng nói
-3. Nhấn **Generate**
-4. Nghe kết quả ngay trên trình duyệt
+1. Chạy file main dự án
+2. Truy cập local URL để sử dụng các tính năng:  http://127.0.0.1:7861
+3. Nhập nội dung cần đọc
+4. Chọn giọng nói
+5. Nhấn **Generate**
+6. Nghe kết quả ngay trên trình duyệt
 
 ## Mục tiêu project
 
