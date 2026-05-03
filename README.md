@@ -44,7 +44,7 @@ GOOGLE_API_KEY=your_api_key_here
 Chạy project:
 
 ```bash
-python app.py
+python tts_ui.py
 ```
 
 ## 📌 Demo
